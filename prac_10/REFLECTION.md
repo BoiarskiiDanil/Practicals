@@ -21,7 +21,7 @@ I need to stop submitting practicals after the deadline, which may also be relev
 
 ## What are you currently doing poorly for practicals in this subject that you will change?
 
-Despite the diligence for accessible code, sometimes I cannot notice little details that are crucial to code's proper execution, that's why I have to waste time looking for a problem's solution in the lectures. Besides, I don't leave comments on my code very often that's why sometimes a chunk of code looks like either redundant or out of place. Also, in addition to that, submitting practicals in time is the worst aspect of my learning right now and I understand that it hinders my progress a lot.
+Despite the diligence for accessible code, sometimes I cannot notice little details that are crucial to code's proper execution, that's why I have to waste time looking for a problem's solution in the lectures or in other online resources such as forums or YouTube videos. Besides, I don't leave comments on my code very often that's why sometimes a chunk of code looks like either redundant or out of place. Also, in addition to that, submitting practicals in time is the worst aspect of my learning right now and I understand that it hinders my progress a lot.
 
 ## What are you doing really well for practicals in this subject?
 
